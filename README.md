@@ -1,6 +1,6 @@
 # ls-problem
 
-#Description
+# Description
 bacward ls to debug permission problem
 
 list every rights in a given path
